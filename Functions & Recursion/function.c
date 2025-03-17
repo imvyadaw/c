@@ -1,6 +1,9 @@
 // ---IM_VYADAW------
 #include <stdio.h>
-int main(void) {
-    printf("vishal yadaw");
+void greet(){
+    printf("Hello, World!\n");
+}
+int main() {
+    greet();
     return 0;
 }
